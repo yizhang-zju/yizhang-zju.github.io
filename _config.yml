@@ -1,0 +1,21 @@
+# Setup
+title:        Toolbox
+tagline:      A Collection of Command Line Tools for data processing, mapping and more.
+baseurl:      "/Toolbox"
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Yi Zhang
+  url:        https://yizhangcug.github.io
+
+# project repository
+repository: https://github.com/YiZhangCUG/Toolbox.git
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
