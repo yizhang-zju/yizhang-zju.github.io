@@ -1,17 +1,17 @@
 # Setup
-title:        Toolbox
-tagline:      A Collection of Command Line Tools for data processing, mapping and more.
-baseurl:      "/Toolbox"
+title:        Yi Zhang's Personal Site
+tagline:      Collections of my personal docs, codes, news and more.
+baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
   name:       Yi Zhang
-  url:        https://yizhangcug.github.io
+  url:        https://yizhang-zju.github.io
 
 # project repository
-repository: https://github.com/YiZhangCUG/Toolbox.git
+repository: https://github.com/yizhang-zju/yizhang-zju.github.io.git
 
 # Gems
 plugins:
