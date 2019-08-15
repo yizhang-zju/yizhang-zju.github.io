@@ -1,1 +1,15 @@
+---
+layout: post
+title: "gm3d程序说明书"
+subtitle: "重磁三维建模与正演计算"
+author: 张壹
+date: 2019-8-15 20:30:00 -0800
+tags: [3D modeling, command line tools]
+---
+
+* content
+{:toc}
+
+
+# 简介
 gm3d是一个开源的直角坐标系下的三维重磁场建模与正演命令行工具。它能够以方块为基本的建模单元构建复杂的三维密度或磁化率模型并正演计算模型的重磁数据及方向梯度数据。
